@@ -1,4 +1,4 @@
---->This is a program that can send multiple emails to a given email address through Gmail or Yahoo.
+--->This is a program that can send multiple emails to a given email address through Gmail or Yahoo.<br>
 --->It is written in Python using the SMTP ( Simple mail transfer protocol) library.
 --->Note that the maximum number of mails that you can send is 80 at a time , as Gmail does not allow us to send more at a time.
 --->You need to change your Privacy settings in Gmail to allow less secure apps to open Gmail and enable IMAP
